@@ -26,6 +26,12 @@
 3. 为`autologin.vbs`创建快捷方式，将**快捷方式**复制到开机自启的文件夹中
 
     Windows默认的自启动文件夹为`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
+    
+    2023.5.5补充：
+
+    强烈推荐！！
+    
+    参考[这篇文章](https://www.zhihu.com/question/50249683/answer/950791896)，可以将上述vbs文件设置成计划任务启动程序，将其设置为在连接上校园wifi后自动执行，体验极佳。
 
 ## Linux
 
