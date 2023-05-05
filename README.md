@@ -23,9 +23,9 @@
 
     如果为电信则登录方式为`@njxy`，移动为`@cmcc`，校园网则修改为空字符串
 
-3. 为`autologin.vbs`创建快捷方式，将**快捷方式**复制到开机自启的文件夹中
+3. ~~为`autologin.vbs`创建快捷方式，将**快捷方式**复制到开机自启的文件夹中~~
 
-    Windows默认的自启动文件夹为`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
+    ~~Windows默认的自启动文件夹为`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`~~
     
     2023.5.5补充：
 
